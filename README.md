@@ -1,25 +1,22 @@
-# 👋 こんにちは、Lighthigh57です！
+# 👋 Hi, I'm Lighthigh57!
 
-## 🏫 自己紹介
-現在高校生です。主に**Unity**を使ってゲーム制作をしています。
-過去には**Java**にも触れていたことがあります。
+## 🏫 About Me
+I'm a high school student mainly creating games using **Unity**. I also have some experience with **Java**.
 
-## 🎮 技術と興味
-- **Unity** での2D・3Dゲーム開発
-- **Java**（基礎レベル）
-- **音楽ゲーム**が大好きです
-- 初心者ですが、**作曲**にもチャレンジしています
+## 🎮 Skills & Interests
+- **Unity** for 2D/3D game development
+- **Java** (basic level)
+- Love playing **music games**
+- Beginner at **music composition**, but learning!
 
-## 🎵 サウンド作品
-SoundCloudにも自作曲をアップしています！  
-[🔗 SoundCloud プロフィールはこちら](https://soundcloud.com/lighthigh57)
+## 🎵 My Music
+I upload my original music on SoundCloud!  
+[🔗 Check out my SoundCloud profile](https://soundcloud.com/lighthigh57)
 
-## 🌱 目標
-- ゲーム制作とプログラミングのスキルをもっと伸ばしていきたいです
-- いろんな人と作品づくりや情報交換ができたら嬉しいです
+## 🌱 Goals
+- Keep improving my game development and programming skills
+- Connect and collaborate with others on creative projects
 
 ---
 
-お気軽にフォローやメッセージどうぞ！
-
-このREADMEはCopilotくんに作ってもらいますた。
+Feel free to follow or message me!
